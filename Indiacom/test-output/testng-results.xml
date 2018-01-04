@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10238" started-at="2018-01-03T06:01:05Z" finished-at="2018-01-03T06:01:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10238" started-at="2018-01-03T06:01:05Z" finished-at="2018-01-03T06:01:15Z">
+      <class name="com.indiacom.googletrends.GoogleTrends">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:com.indiacom.googletrends.GoogleTrends@35d176f7]" name="beforeclass" is-config="true" duration-ms="4203" started-at="2018-01-03T11:31:05Z" finished-at="2018-01-03T11:31:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="getallgoogletrends()[pri:0, instance:com.indiacom.googletrends.GoogleTrends@35d176f7]" name="getallgoogletrends" duration-ms="5444" started-at="2018-01-03T11:31:09Z" finished-at="2018-01-03T11:31:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getallgoogletrends -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.indiacom.googletrends.GoogleTrends@35d176f7]" name="afterClass" is-config="true" duration-ms="580" started-at="2018-01-03T11:31:15Z" finished-at="2018-01-03T11:31:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.indiacom.googletrends.GoogleTrends -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

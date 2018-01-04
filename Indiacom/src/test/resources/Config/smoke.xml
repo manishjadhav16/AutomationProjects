@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="Smoke Test" verbose="1" >
+<!--  <test name="zee.automationproject.adminlogin" > -->
+<!--  <classes> -->
+<!--   <class name="zee.automationproject.adminlogin.TestBrowsers" /> -->
+<!--  </classes> -->
+<!--  </test> -->
+  
+<!--   <test name="OutBrain" > -->
+<!--     <classes> -->
+<!--        <class name="com.indiacom.OutBrain.OutBrainTest" /> -->
+<!--     </classes> -->
+<!--   </test> -->
+
+</suite>
